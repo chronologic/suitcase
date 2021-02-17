@@ -5563,7 +5563,7 @@
   },
   "networks": {},
   "schemaVersion": "3.3.4",
-  "updatedAt": "2021-02-17T15:06:30.977Z",
+  "updatedAt": "2021-02-17T15:36:47.647Z",
   "devdoc": {
     "details": "Sellable contract should be inherited by any other contract that wants to provide a mechanism for selling its ownership to another account",
     "kind": "dev",
