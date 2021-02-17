@@ -17,7 +17,7 @@ The Suitcase can be put up for a sale and its ownership can be transferred to th
 ## Requirements
 
 - node 10 (run `nvm use` if using [`nvm`](https://github.com/nvm-sh/nvm) to automatically select the proper version)
-- [truffle](https://www.npmjs.com/package/truffle)
+- [`truffle`](https://www.npmjs.com/package/truffle)
 
 Optional:
 
