@@ -12,7 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "@openzeppelin/contracts": "^3.4.0",
+    "@truffle/hdwallet-provider": "^1.2.2",
     "chai-as-promised": "^7.1.1",
+    "dotenv": "^8.2.0",
     "ethereumjs-abi": "^0.6.5",
     "solc": "^0.7.6"
   },
