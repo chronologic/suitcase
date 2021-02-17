@@ -34,6 +34,13 @@ module.exports = {
     },
   },
   networks: {
+    bscDev: {
+      host: 'localhost',
+      port: 8545,
+      network_id: '5656',
+      gasPrice: 20000000000, // 20 gwei
+      gas: 8000000,
+    },
     bscTestnet: {
       network_id: '97',
       provider: bscTestnetProvider,

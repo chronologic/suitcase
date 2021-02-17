@@ -6,13 +6,21 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "truffle test",
+    "clean-build": "rm -rf build",
+    "build": "npm run clean-build && truffle compile",
+    "deploy:bscDev": "truffle migrate --network bscDev --reset",
+    "deploy:bscTestnet": "truffle migrate --network bscTestnet --reset",
+    "deploy:bscMainnet": "truffle migrate --network bscMainnet --reset",
+    "deployed-addresses": "truffle networks",
+    "ganache:dev": "ganache-cli --fork https://bsc-dataseed.binance.org/ --networkId 5656 --gasLimit 8000000 --gasPrice 20000000000"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@openzeppelin/contracts": "^3.4.0",
     "@truffle/hdwallet-provider": "^1.2.2",
+    "chai": "^4.3.0",
     "chai-as-promised": "^7.1.1",
     "dotenv": "^8.2.0",
     "ethereumjs-abi": "^0.6.5",
