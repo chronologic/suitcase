@@ -1,10 +1,12 @@
-[<img src="https://s3.amazonaws.com/chronologic.network/ChronoLogic_logo.svg" width="128px">](https://github.com/chronologic)
+![Suitcase Promo](assets/promo.gif)
 
 # Suitcase smart contract
 
 Smart Contract proxy wallet for ERC-20 tokens.
 
-The Suitcase can be put up for a sale and its ownership can be transferred to the purchaser.
+The Suitcase can be put up for sale and its ownership can be transferred to the purchaser in a secure, trustless way.
+
+You can read more about this project at our [blog](https://blog.chronologic.network/suitcase-proxy-wallet-transferred-ownership-and-sellable-crypto-addresses-b89aafc93ff3).
 
 ## Selling ownership
 
@@ -45,3 +47,11 @@ Optional:
 Tests are located in `test`.
 
 Run `npm run test` to execute the test suite.
+
+## Additional links
+
+- Website: https://chronologic.network/
+- Twitter: https://twitter.com/chronologiceth
+- Medium: https://blog.chronologic.network/
+- Telegram: https://t.me/chronologicnetwork
+- Github: https://github.com/chronologic/
