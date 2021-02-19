@@ -8,6 +8,8 @@ The Suitcase can be put up for sale and its ownership can be transferred to the 
 
 You can read more about this project at our [blog](https://blog.chronologic.network/suitcase-proxy-wallet-transferred-ownership-and-sellable-crypto-addresses-b89aafc93ff3).
 
+An example instance of the contract has been deployed [here](https://testnet.bscscan.com/address/0xf641D18Ad21AAc645EF50181919637FB7ceD912A#code).
+
 ## Selling ownership
 
 - owner initiates the sale by calling `initiateSale` and specifying the asking price and who they want to sell to
