@@ -44,7 +44,7 @@ Optional:
 
 ## Testing
 
-Tests are located in `test`.
+Tests are located in `test/` directory.
 
 Run `npm run test` to execute the test suite.
 
