@@ -7,6 +7,8 @@ Smart Contract proxy wallet for ERC-20/BEP-20 tokens.
 The Suitcase can be put up for sale and its ownership can be transferred to the purchaser in a secure, trustless way.
 
 You can read more about this project at our [blog](https://blog.chronologic.network/suitcase-proxy-wallet-transferred-ownership-and-sellable-crypto-addresses-b89aafc93ff3).
+\
+🗞 Winner of Binance Hackathon - The Future Is Now: https://gitcoin.co/issue/24656#:~:text=2%20Years%20Ago-,Bounty%20Paid,-(0xd9aa%E2%80%A66f20) https://gitcoin.co/hackathon/binance/projects/4293/suitcase/summary
 
 An example instance of the contract has been deployed [here](https://testnet.bscscan.com/address/0xf641D18Ad21AAc645EF50181919637FB7ceD912A#code).
 
